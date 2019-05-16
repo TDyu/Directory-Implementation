@@ -1,0 +1,20 @@
+{"contacts": {
+	"datetime": {
+		"name": "name",
+		"alias": "alias",
+		"birthday": "birthday",
+		"constellation": "constellation",
+		"home_phones": ["home_phones", "home_phones"],
+		"mobile_phones": ["mobile_phones", "mobile_phones"],
+		"company_phones": ["company_phones", "company_phones"],
+		"address": "address",
+		"emails": ["emails", "emails"],
+		"line_ids": ["line_ids", "line_ids"],
+		"facebook_ids": ["facebook_ids", "facebook_ids"],
+		"note": "note"
+ 	}
+ },
+ "groups": {
+ 	"group_name": ["contact_datetime"]
+ }
+}
